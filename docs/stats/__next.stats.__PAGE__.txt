@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/reversi-online-game/_next/static/chunks/e7283fea06b4a340.js"],"ClientPageRoot"]
+3:I[78308,["/reversi-online-game/_next/static/chunks/6bc1f1a072844b42.js","/reversi-online-game/_next/static/chunks/5f7ccdff00789808.js","/reversi-online-game/_next/static/chunks/87e43d291286e381.js","/reversi-online-game/_next/static/chunks/c0ccacc4ae38fd05.js"],"default"]
+6:I[97367,["/reversi-online-game/_next/static/chunks/e7283fea06b4a340.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"Htk2uP6Ln_3oDo1M2Rk9t","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/reversi-online-game/_next/static/chunks/5f7ccdff00789808.js","async":true}],["$","script","script-1",{"src":"/reversi-online-game/_next/static/chunks/87e43d291286e381.js","async":true}],["$","script","script-2",{"src":"/reversi-online-game/_next/static/chunks/c0ccacc4ae38fd05.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
