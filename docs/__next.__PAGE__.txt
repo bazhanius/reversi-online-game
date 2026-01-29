@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[47257,["/battleship-online-game/_next/static/chunks/e7283fea06b4a340.js"],"ClientPageRoot"]
+3:I[74647,["/battleship-online-game/_next/static/chunks/6bc1f1a072844b42.js","/battleship-online-game/_next/static/chunks/9e2ee8922b5d45c1.js","/battleship-online-game/_next/static/chunks/3a0f14f70959674a.js","/battleship-online-game/_next/static/chunks/d2c45078d303620d.js"],"default"]
+6:I[97367,["/battleship-online-game/_next/static/chunks/e7283fea06b4a340.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/battleship-online-game/_next/static/chunks/fd265033a995ee7a.css","style"]
+0:{"buildId":"CRWVZqc0twKJBE94GOxP9","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/battleship-online-game/_next/static/chunks/fd265033a995ee7a.css","precedence":"next"}],["$","script","script-0",{"src":"/battleship-online-game/_next/static/chunks/9e2ee8922b5d45c1.js","async":true}],["$","script","script-1",{"src":"/battleship-online-game/_next/static/chunks/3a0f14f70959674a.js","async":true}],["$","script","script-2",{"src":"/battleship-online-game/_next/static/chunks/d2c45078d303620d.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
