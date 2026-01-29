@@ -1,4 +1,0 @@
-:HL["/battleship-online-game/_next/static/chunks/ba47362fa68f3b82.css","style"]
-:HC["/",""]
-:HL["/battleship-online-game/_next/static/chunks/fd265033a995ee7a.css","style"]
-0:{"buildId":"CRWVZqc0twKJBE94GOxP9","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
